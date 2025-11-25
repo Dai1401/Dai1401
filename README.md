@@ -1,42 +1,34 @@
 <div align="center">
-
-  <!-- Título Animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF1493&center=true&vCenter=true&width=900&lines=Olá!+👋+Eu+sou+a+Daiane+Rodrigues;Desenvolvedora+Web+Full+Stack;Criativa+%26+Focada+em+Resultados+✨" />
-
-  <br>
-
-  <!-- Mascote Fofo Cyberpunk Rosa -->
-  <img src="https://i.imgur.com/e88mx91.png" width="280" alt="Mascote Daiane Dev" />
-
-  <h3>🚀 Desenvolvedora Web | Curitiba - PR 🇧🇷</h3>
-
-  <!-- Botões -->
-  <p align="center">
-    <a href="https://dai1401.github.io/portfolio-pessoal/">
-      <img src="https://img.shields.io/badge/🌐%20Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/daiane-r-373952163/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:dai_1123@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding gif"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF1493&center=true&vCenter=true&width=940&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+a+Daiane+Rodrigues;Desenvolvedora+Web+Full+Stack;Apaixonada+por+criar+experi%C3%AAncias+digitais" alt="Typing SVG" />
 </div>
+
+<h3 align="center">🚀 Desenvolvedora Web | Curitiba, PR 🇧🇷</h3>
+
+<p align="center">
+  <a href="https://dai1401.github.io/portfolio-pessoal/">
+    <img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daiane-r-373952163/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dai_1123@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🌸 Sobre Mim
+### 👩‍💻 Sobre Mim
 
 ```javascript
 const daiane = {
-  localização: "Curitiba, PR",
-  ocupação: "Desenvolvedora Web Full Stack",
-  experiência: "2+ anos criando soluções modernas",
-  foco: ["Front-End", "APIs .NET", "UX/UI"],
-  aprendendo: ["JavaScript Avançado", "Python", "MySQL"],
-  softSkills: ["Comunicação", "Organização", "Criatividade"],
-  paixão: "Transformar ideias em interfaces incríveis 💖"
+    localização: "Curitiba, Paraná",
+    ocupação: "Desenvolvedora Web Full Stack",
+    experiência: "2+ anos",
+    foco: ["Front-End", "Design Responsivo", "UX/UI"],
+    aprendendo: ["JavaScript Avançado", "Python", "MySQL"],
+    hobbies: ["Codificar", "Aprender novas tecnologias", "Design"]
 };
 
