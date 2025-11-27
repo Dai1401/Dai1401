@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img width="350" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat coding"/>
+  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh3YnJ2Y3lhcGpzazIwcGljcGFrdDR1bjRqNXczcHFrNzRzMmNsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Woman Coding"/>
 </div>
 
 <h2 align="center">💖 Olá! Sou a Daiane Rodrigues ✨</h2>
-<h3 align="center">👩‍💻 Desenvolvedora Web Full Stack</h3>
+<h3 align="center">👩‍💻 Desenvolvedora Web em Formação</h3>
 <h4 align="center">🌸 Curitiba, Paraná • 🇧🇷 Brasil</h4>
 
 <p align="center">
@@ -28,11 +28,11 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding"/>
 
-💼 **Desenvolvedora Web** com 2+ anos de experiência  
+🌱 **Em formação** como Desenvolvedora Web  
 💕 Apaixonada por criar experiências digitais  
-🌱 Atualmente aprendendo **Python** e **MySQL**  
+📚 Atualmente aprendendo **JavaScript**, **Python** e **MySQL**  
 🎯 Focada em **Front-End** e **Design Responsivo**  
-✨ Transformo ideias em realidade através do código  
+✨ Transformando ideias em realidade através do código  
 🎨 Adoro combinar criatividade com tecnologia
 
 <br clear="right"/>
@@ -89,14 +89,12 @@
 
 ---
 
----
-
 <div align="center">
   
-  <b>✨ Obrigada pela visita! ✨</b>
+![](https://komarev.com/ghpvc/?username=Dai1401&color=FF69B4&style=for-the-badge&label=VISITANTES)
   
-  <br/><br/>
+<br/><br/>
   
-  ![Visitantes](https://komarev.com/ghpvc/?username=Dai1401&color=FF69B4&style=flat-square&label=VISITANTES)
+<b>✨ Obrigada pela visita! ✨</b>
   
 </div>
