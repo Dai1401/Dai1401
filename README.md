@@ -89,10 +89,14 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dai1401&color=FF69B4&style=for-the-badge&label=VISITANTES"/>
-</div>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" />
+  
+  <b>✨ Obrigada pela visita! ✨</b>
+  
+  <br/><br/>
+  
+  ![Visitantes](https://komarev.com/ghpvc/?username=Dai1401&color=FF69B4&style=flat-square&label=VISITANTES)
+  
 </div>
